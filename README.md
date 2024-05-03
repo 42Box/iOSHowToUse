@@ -1,6 +1,4 @@
-# 🔎 How To Use
-
-### Folder Edit
+### 🔎 Folder Edit
 
 |폴더 관리|
 |:---:|
@@ -8,7 +6,7 @@
 |Manage folders|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/116494364/e07a8b51-97f6-4c45-a857-63bfb0e42564">|
 
-### Share Extension
+### 🔎 Share Extension
 
 |앱 외부에서 가져오기|
 |:---:|
@@ -16,7 +14,7 @@
 |Importing from the other App|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/116494364/448b6272-8b2e-4127-99f1-4a504ed1441a">|
 
-### Refresh Controller
+### 🔎 Refresh Controller
 
 |내부에서 북마크 추가하기|
 |:---:|
@@ -24,7 +22,7 @@
 |Internal Add Bookmark|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/116494364/9c8dfdaf-d1da-4e7a-bca9-221017dc1e5d">|
 
-### Shortcuts for bookmark lists
+### 🔎 Shortcuts for bookmark lists
 
 |북마크리스트들의 상호작용|
 |:---:|
@@ -32,7 +30,7 @@
 |Preview, Favorite, Context menu|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/116494364/0d1a1e51-f9d5-4c65-9883-538c95a977ed">|
 
-### Settings menu
+### 🔎 Settings menu
 
 |테마 및 설정|
 |:---:|
