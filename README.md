@@ -29,10 +29,11 @@
 |북마크리스트들의 상호작용|
 |:---:|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/85754295/82a5941c-e7d1-43f4-96bd-649ecfcc312e">|
-|Preview, Context menu|
+|Preview, Favorite, Context menu|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/116494364/0d1a1e51-f9d5-4c65-9883-538c95a977ed">|
 
 ### Settings menu
+
 |테마 및 설정|
 |:---:|
 |<img alt="image" src="https://github.com/42Box/iOS/assets/85754295/73f09320-2d85-4ba3-a3b8-067a49a33c55">|
